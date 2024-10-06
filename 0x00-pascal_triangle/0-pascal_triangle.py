@@ -2,6 +2,8 @@
 """ pascal triangle
 """
 def pascal_triangle(n):
+    """ returns pascal triangle
+    """
     if n <= 0:
         return []
 
